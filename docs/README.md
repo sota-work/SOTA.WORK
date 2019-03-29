@@ -15,7 +15,6 @@ State of the art work in AI.
 ## 2012~2014
 
 - [Imagenet classification with deep convolutional neural networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-
 - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf)
 - [Deep Learning Face Representation from Predicting 10,000 Classes](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Sun_Deep_Learning_Face_2014_CVPR_paper.pdf)
 - [Deep learning face representation by joint identification-verification](https://papers.nips.cc/paper/5416-deep-learning-face-representation-by-joint-identification-verification.pdf)
