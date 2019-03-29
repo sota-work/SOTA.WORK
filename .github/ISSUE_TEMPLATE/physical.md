@@ -1,7 +1,7 @@
 ---
 name: Physical
 about: State of the art work in Physical
-title: ''
+title: "[PHYSICAL]"
 labels: ''
 assignees: ''
 
