@@ -28,8 +28,11 @@ State of the art work in AI.
 
 - [TensorFlow](https://tensorflow.org)
 - [Mastering the game of Go with deep neural networks and tree search](http://web.iitd.ac.in/~sumeet/Silver16.pdf)
+
 ## 2017
+
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
 ## 2018
 
 - [PyTorch](https://pytorch.org/)
