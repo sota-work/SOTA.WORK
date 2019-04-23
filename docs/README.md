@@ -10,7 +10,7 @@
 
 - [Backpropagation applied to handwritten zip code recognition](http://www.ics.uci.edu/~welling/teaching/273ASpring09/lecun-89e.pdf),1989,Y. LeCun, B. Boser, J. S. Denker, D. Henderson
 
-> 创造新的提出了神经网络在图片识别领域的应用，在邮政编码识别中取得了巨大的进步。
+> 创造性的提出了神经网络在图片识别领域的应用，在邮政编码识别中取得了巨大的进步。
 
 - [Gradient-Based Learning Applied to Document](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf):LeNet-5,1998,Y LeCun, L Bottou, Y Bengio, P Haffner
 
