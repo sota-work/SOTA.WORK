@@ -4,15 +4,15 @@
 
 ## 1986~1998
 
-- 1986,David Rumelhart, Geoffrey Hinton and Ronald Williams,[Learning Internal Representations by Error Propagation](https://apps.dtic.mil/dtic/tr/fulltext/u2/a164453.pdf)
+- [Learning Internal Representations by Error Propagation](https://apps.dtic.mil/dtic/tr/fulltext/u2/a164453.pdf),1986,David Rumelhart, Geoffrey Hinton and Ronald Williams
 
 > 将基于梯度的反向传播用于神经网络的表征训练，奠定了整个神经网络优化算法的基础。
 
-- 1989,Y. LeCun, B. Boser, J. S. Denker, D. Henderson,[Backpropagation applied to handwritten zip code recognition](http://www.ics.uci.edu/~welling/teaching/273ASpring09/lecun-89e.pdf)
+- [Backpropagation applied to handwritten zip code recognition](http://www.ics.uci.edu/~welling/teaching/273ASpring09/lecun-89e.pdf),1989,Y. LeCun, B. Boser, J. S. Denker, D. Henderson
 
 > 创造新的提出了神经网络在图片识别领域的应用，在邮政编码识别中取得了巨大的进步。
 
-- 1998,Y LeCun, L Bottou, Y Bengio, P Haffner,[Gradient-Based Learning Applied to Document](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf):LeNet-5
+- [Gradient-Based Learning Applied to Document](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf):LeNet-5,1998,Y LeCun, L Bottou, Y Bengio, P Haffner
 
 > 受生物自然视觉认知机制(动物视觉皮层细胞负责检测光学信号)启发提出CNN(卷积神经网络)而来，是一种特殊的多层前馈神经网络，是现代深度学习中一个重量级别的神经网络模型，被广泛用于图像、文本
 中。
