@@ -12,7 +12,7 @@
 
 > 创造新的提出了神经网络在图片识别领域的应用，在邮政编码识别中取得了巨大的进步。
 
-- 1998,Y LeCun, L Bottou, Y Bengio, P Haffner[Gradient-Based Learning Applied to Document](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf):LeNet-5
+- 1998,Y LeCun, L Bottou, Y Bengio, P Haffner,[Gradient-Based Learning Applied to Document](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf):LeNet-5
 
 > 受生物自然视觉认知机制(动物视觉皮层细胞负责检测光学信号)启发提出CNN(卷积神经网络)而来，是一种特殊的多层前馈神经网络，是现代深度学习中一个重量级别的神经网络模型，被广泛用于图像、文本
 中。
@@ -46,4 +46,3 @@
 
 - [PyTorch](https://pytorch.org/)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
-
