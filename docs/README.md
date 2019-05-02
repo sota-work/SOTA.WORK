@@ -13,9 +13,9 @@
 - [语义分割](semantic_segmentation.md)
 - [图像分类](image_classification.md)
 - [物体检测](object_detection.md)
-- [单目深度估计](content/depth_estimation.md)
+- [单目深度估计](depth_estimation.md)
 - [姿势估计](pose_estimation.md)
-- [图像质量评估](content/image_quality_assessment.md)
+- [图像质量评估](image_quality_assessment.md)
 
 ## 数据集
 
@@ -24,5 +24,5 @@
 - [PASCAL VOC 2012 - 语义分割](datasets/pascal_voc_2012_segmentation.md)
 - [ADE20K](datasets/ade20k.md)
 - [城市风景 - 语义分割](datasets/cityscapes_semantic.md)
-- [PASCAL语境](datasets/pascal_context.md)
+- [PASCAL Context](datasets/pascal_context.md)
 - [COCO - 检测2016](datasets/coco_detection.md)
