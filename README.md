@@ -29,3 +29,8 @@
 - [城市风景 - 语义分割](datasets/cityscapes_semantic.md)
 - [PASCAL Context](datasets/pascal_context.md)
 - [COCO - 检测2016](datasets/coco_detection.md)
+
+## 感谢
+
+- https://github.com/Lextal/SotA-CV
+- [https://github.com/Lextal/SotA-CV](https://github.com/Lextal/SotA-CV)
