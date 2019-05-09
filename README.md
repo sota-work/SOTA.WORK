@@ -6,8 +6,6 @@
 
 与协作跟踪研究进展的其他尝试不同，此存储库提供定量评估的汇总结果。这种做法可以大大简化初始文献检索和准备对自己结果的比较研究。
 
-感谢：
-- [https://github.com/Lextal/SotA-CV](https://github.com/Lextal/SotA-CV)
 
 ### 任务
 
