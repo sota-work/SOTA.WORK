@@ -32,5 +32,4 @@
 
 ## 感谢
 
-- https://github.com/Lextal/SotA-CV
 - [https://github.com/Lextal/SotA-CV](https://github.com/Lextal/SotA-CV)
